@@ -1,0 +1,11 @@
+{
+  "features": [
+    "TrackTemp",
+    "CircuitEncoded",
+    "Compound_HARD",
+    "Compound_MEDIUM",
+    "Compound_SOFT"
+  ],
+  "cliff_threshold_seconds": 2.0,
+  "model_type": "weibull"
+}

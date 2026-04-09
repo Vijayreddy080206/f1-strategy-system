@@ -1,0 +1,12 @@
+{
+  "fuel_effect_per_lap": 0.065,
+  "features": [
+    "TyreLife",
+    "CompoundEncoded",
+    "CircuitEncoded",
+    "TrackTemp"
+  ],
+  "target": "LapTimeDelta",
+  "mae": 0.7397,
+  "r2": 0.3215
+}
